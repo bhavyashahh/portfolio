@@ -49,7 +49,7 @@ export default function Hero() {
                     <div className="absolute -inset-4 rounded-full bg-gradient-to-tr from-blue-500/20 via-cyan-500/10 to-teal-500/15 blur-xl" aria-hidden="true" />
                     <div className="photo-ring relative">
                       <Image
-                        src="public/profile.jpg"
+                        src="/profile.jpg"
                         alt="Bhavya Nirav Shah"
                         width={180}
                         height={180}

@@ -45,7 +45,7 @@ const entries: Entry[] = [
     title: "HackMIT 2023 & 2024",
     subtitle: "Judge & Mentor — AI/ML Track",
     detail: "Evaluated and mentored student teams building AI-powered projects",
-    logo: "public/hackmit-logo.png",
+    logo: "/hackmit-logo.png",
     color: "#34d399",
   },
   {
