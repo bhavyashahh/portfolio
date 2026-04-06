@@ -9,7 +9,7 @@ const education = [
     period: "Aug 2021 — Dec 2022",
     location: "Tempe, AZ",
     color: "#8C1D40",
-    logo: "/portfolio/asu-logo.png",
+    logo: "public/asu-logo.png",
   },
   {
     school: "Nirma University",
@@ -18,7 +18,7 @@ const education = [
     period: "Aug 2017 — May 2021",
     location: "Ahmedabad, India",
     color: "#1a5276",
-    logo: "/portfolio/nirma-logo.png",
+    logo: "public/nirma-logo.png",
   },
 ];
 
